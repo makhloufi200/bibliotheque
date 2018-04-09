@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+        {% load staticfiles %}
+<html>
+<head>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <title>موقع مكتبة</title>
+    <!--<link  rel="stylesheet" type="text/css" href="css/css.css">-->
+    <link rel="stylesheet" href="{% static 'css/css.css' %}">
+</head>
+<body>
+<div id="header">
+   <div class="container">
+       <div class="float-right">
+           <a href="home.html" id="logo">bibliotheque</a>
+       </div>
+       <div class="float-left">
+           <h3></h3>
+       </div>
+   </div>
+</div>
+<div id="w1">
+    <h3>البحث</h3>
+    <form action="#" method="GET">
+        <label>البحث: </label>
+        <input type="text" name="q" value="{{ query|escape }}">
+        <input type="submit" value="البحث">
+    </form>
+</div>
+<div id="main">
+    <form>
+        <div class="book-list">
+            <table>
+            <thead>
+                <tr>
+                <th>
+                    <span>الرقم التسلسلي</span>
+                </th>
+                <th>
+                    <a>إسم الكتاب</a>
+                </th>
+                <th>
+                    <span>رقم المجلد</span>
+                </th>
+                <th>
+                    <span>المؤلف</span>
+                </th>
+                <th>
+                    <span>الناشر</span>
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+                {% for book in books %}
+                    <div>
+                        <tr>
+                            <th>
+                                <p>{{ forloop.counter }}</p>
+                            </th>
+                            <th>
+                                <p>{{book.title}}</p>
+                            </th>
+
+                            <th>
+                                <p>{{book.folder_number}}</p>
+                            </th>
+                            <th>
+                                <p>{{book.author}}</p>
+                            </th>
+                            <th>
+                                <p>{{book.publisher}}</p>
+                            </th>
+
+                        </tr>
+                    </div>
+                {% endfor %}
+            </tbody>
+            <!--<tbody>-->
+                <!--<tr>-->
+                    <!--<td>-->
+                        <!--<span>-->
+                            <!--1-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span>-->
+                            <!--<a class="text text-blue" href="#">أساسيات لغة البايثون</a>-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                            <!--1-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                            <!--<span>مختص في البايثون</span>-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                        <!--</span>-->
+                    <!--</td>-->
+
+                <!--</tr>-->
+                <!--<tr>-->
+                    <!--<td>-->
+                        <!--<span>-->
+                            <!--2-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span>-->
+                            <!--<a class="text text-blue" href="#">أساسيات لغة البايثون</a>-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                            <!--1-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                            <!--<span>مختص في البايثون</span>-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                        <!--</span>-->
+                    <!--</td>-->
+                <!--</tr>-->
+                <!--<tr>-->
+                    <!--<th>-->
+                        <!--<span>-->
+                            <!--3-->
+                        <!--</span>-->
+                    <!--</th>-->
+                    <!--<td>-->
+                        <!--<span>-->
+                            <!--<a class="text text-blue" href="#">أساسيات لغة البايثون</a>-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                            <!--1-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                            <!--<span>مختص في البايثون</span>-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                        <!--</span>-->
+                    <!--</td>-->
+
+                <!--</tr>-->
+                <!--<tr>-->
+                    <!--<th>-->
+                        <!--<span>-->
+                            <!--4-->
+                        <!--</span>-->
+                    <!--</th>-->
+                    <!--<td>-->
+                        <!--<span>-->
+                            <!--<a class="text text-blue" href="#">أساسيات لغة البايثون</a>-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                            <!--1-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                            <!--<span>مختص في البايثون</span>-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                        <!--</span>-->
+                    <!--</td>-->
+
+                <!--</tr>-->
+                <!--<tr>-->
+                    <!--<th>-->
+                        <!--<span>-->
+                            <!--5-->
+                        <!--</span>-->
+                    <!--</th>-->
+                    <!--<td>-->
+                        <!--<span>-->
+                            <!--<a class="text text-blue" href="#">أساسيات لغة البايثون</a>-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                            <!--1-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                            <!--<span>مختص في البايثون</span>-->
+                        <!--</span>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<span class="text">-->
+                        <!--</span>-->
+                    <!--</td>-->
+                <!--</tr>-->
+            <!--</tbody>-->
+        </table>
+        </div>
+    </form>
+</div>
+<footer id="footer">
+    <div class="footer-done">
+        <h3>Done By:</h3>
+    </div>
+</footer>
+</body>
+</html>
