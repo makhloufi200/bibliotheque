@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6388d328-fe88-4c87-aa3e-ed2f8ddff684" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\bibliotheque\static\css\css.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static\img\1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static\img\icon.png" afterPath="" />
-    </list>
+    <list default="true" id="6388d328-fe88-4c87-aa3e-ed2f8ddff684" name="Default" comment="" />
     <ignored path="bibliotheque.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -384,7 +380,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
