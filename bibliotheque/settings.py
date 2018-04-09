@@ -119,21 +119,3 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 STATIC_URL = '/static/'
-
-class SearchFormTestCase(TestCase):
-    @override_settings(ALLOWED_HOSTS=['www.djangoproject.dev','docs.djangoproject.dev','biblio-2018.herokuapp.com'])
-    def test_empty_get(self):
-        response = self.client.get('/en/dev/search/', HTTP_HOST='docs.djangoproject.dev:8000')
-        self.assertEqual(response.status_code, 200)
-
-
-class MultiDomainTestCase(TestCase):
-    @override_settings(ALLOWED_HOSTS=['otherserver'])
-    def test_other_domain(self):
-        response = self.client.get('http://otherserver/foo/bar/')
-#ALLOWED_HOSTS = [
-#    'biblio-2018.herokuapp.com',
-#    'biblio-2018.herokuapp.com',
-#    'biblio-2018.herokuapp.com',
-#    ...
-#]
