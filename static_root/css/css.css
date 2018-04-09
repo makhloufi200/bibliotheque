@@ -1,0 +1,95 @@
+#header{
+    width:100%;
+    height:20%;
+    background-color:#4CAF50;
+    background:linear-gradient(#4e69a2,#4CAF50);
+    border-bottom: 1px solid #133783;
+}
+
+#w1{
+    width:100%;
+    background-color: #fafafa;
+    float:right;
+    direction: rtl;
+    margin: 0 auto;
+    margin-top: 0;
+}
+
+body{margin:0}
+
+.container{
+	width: 1100px;
+	height: auto;  /* headerتحديد إرتفاع العنصر بنفس إرتفاع ال */
+	background-color:#4CAF50;
+    background:linear-gradient(#4e69a2,#4CAF50);
+	margin: 0 auto;
+	overflow: auto;
+}
+
+.float-right{
+    float:right;
+}
+
+.float-left{
+    float: left;
+}
+#logo{
+	display: block;
+    width: 150px;
+	height: 70px;
+	background-image: url(../img/1.png);
+	background-position: 0 0;
+	margin-top: 2px;
+	text-indent: -140px;
+	overflow: hidden;
+}
+
+#main{
+	width: 100%;
+	min-width: 980px;
+    height:60%;
+	background-color: #fff;
+	background: linear-gradient(#ffffff,#d3d8e8);
+}
+/*=======================*/
+.book-list{height:500px}
+.book-list thead tr:nth-child(odd){background-color:#cdd8e5}
+.book-list thead a{color:#000}
+.book-list tr:nth-child(odd){background-color:#fafafa}
+.book-list td,.book-list th{
+padding:.5em;
+text-align:left;
+border-bottom:1px solid #e3e3e3;
+border-left:1px solid #f2eeee
+}
+.book-list td, .book-list th{text-align:right}
+table{
+    width: 100%;
+	font-family: Arial;
+	direction:rtl;
+	display:table
+}
+tr{
+	/*border:1px solid #000;*/
+	padding: 5px;
+	width: 50%;
+}
+
+thead {background-color:#cdd8e5;color:#000}
+
+
+#footer{
+    width:100%;
+    height:20%;
+    background-color:#4e69a2;
+    background: linear-gradient((#4e69a2,#4CAF50));
+}
+
+.footer-done{
+    color:#F8F8FF;
+    font-size: 12px;
+	vertical-align:middle;
+    padding: 5px 5px;
+    text-align: center;
+	font-weight: bold;
+}
