@@ -1,1 +1,1 @@
-web: gunicorn biblio-2018.wsgi --log-file -
+web: gunicorn biblio.wsgi
