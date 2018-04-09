@@ -25,7 +25,7 @@ SECRET_KEY = '2&b4!=-1$ii(y(=q=&%!^ri&5ubctp$b_)52bz@w&8!ctnbk-h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['biblio-2018.herokuapp.com']
+ALLOWED_HOSTS = ['biblio-2018.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
