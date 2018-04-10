@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6388d328-fe88-4c87-aa3e-ed2f8ddff684" name="Default" comment="" />
+    <list default="true" id="6388d328-fe88-4c87-aa3e-ed2f8ddff684" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biblio/templates/home.html" afterPath="$PROJECT_DIR$/biblio/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biblio/urls.py" afterPath="$PROJECT_DIR$/biblio/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bibliotheque/urls.py" afterPath="$PROJECT_DIR$/bibliotheque/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biblio/views.py" afterPath="$PROJECT_DIR$/biblio/views.py" />
+    </list>
     <ignored path="bibliotheque.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,38 +28,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="requirements.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Procfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bibliotheque/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="140" column="1" selection-start="3767" selection-end="3767" vertical-scroll-proportion="0.7350649" vertical-offset="2080" max-vertical-offset="2465">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="-0.0" vertical-offset="17" max-vertical-offset="3876">
+            <state line="23" column="24" selection-start="729" selection-end="729" vertical-scroll-proportion="-4.576923" vertical-offset="272" max-vertical-offset="3876">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bibliotheque/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="17" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="493">
+              <folding>
+                <element signature="e#636#668#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/biblio/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="30" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/biblio/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="26" selection-start="675" selection-end="675" vertical-scroll-proportion="0.77922076" vertical-offset="142" max-vertical-offset="578">
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,9 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/home.html" />
-        <option value="$PROJECT_DIR$/css/css.css" />
-        <option value="$PROJECT_DIR$/bibliotheque/biblio/urls.py" />
         <option value="$PROJECT_DIR$/bibliotheque/bibliotheque/urls.py" />
         <option value="$PROJECT_DIR$/bibliotheque/bibliotheque/settings.py" />
         <option value="$PROJECT_DIR$/bibliotheque/biblio/admin.py" />
@@ -90,9 +96,12 @@
         <option value="$PROJECT_DIR$/bibliotheque/Procfile" />
         <option value="$PROJECT_DIR$/bibliotheque/biblio/templates/home.html" />
         <option value="$PROJECT_DIR$/Procfile" />
-        <option value="$PROJECT_DIR$/biblio/templates/home.html" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/bibliotheque/settings.py" />
+        <option value="$PROJECT_DIR$/biblio/urls.py" />
+        <option value="$PROJECT_DIR$/bibliotheque/urls.py" />
+        <option value="$PROJECT_DIR$/biblio/templates/home.html" />
+        <option value="$PROJECT_DIR$/biblio/views.py" />
       </list>
     </option>
   </component>
@@ -144,6 +153,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -356,7 +393,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -366,7 +403,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -389,13 +426,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
@@ -450,6 +480,18 @@
         <state line="19" column="17" selection-start="538" selection-end="538" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="663" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="17" selection-start="538" selection-end="538" vertical-scroll-proportion="0.52987015" vertical-offset="102" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="10" selection-start="1179" selection-end="1189" vertical-scroll-proportion="1.0441558" vertical-offset="295" max-vertical-offset="2465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="385">
@@ -457,29 +499,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="538" selection-end="538" vertical-scroll-proportion="0.52987015" vertical-offset="102" max-vertical-offset="646" />
+        <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.22077923" vertical-offset="0" max-vertical-offset="385">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biblio/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="30" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="17" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="493">
+          <folding>
+            <element signature="e#636#668#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="3876">
+        <state line="23" column="24" selection-start="729" selection-end="729" vertical-scroll-proportion="-4.576923" vertical-offset="272" max-vertical-offset="3876">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/biblio/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bibliotheque/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="1" selection-start="3767" selection-end="3767" vertical-scroll-proportion="0.7350649" vertical-offset="2080" max-vertical-offset="2465">
-          <folding />
+        <state line="26" column="26" selection-start="675" selection-end="675" vertical-scroll-proportion="0.77922076" vertical-offset="142" max-vertical-offset="578">
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
