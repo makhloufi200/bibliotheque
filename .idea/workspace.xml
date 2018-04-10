@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6388d328-fe88-4c87-aa3e-ed2f8ddff684" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bibliotheque/settings.py" afterPath="$PROJECT_DIR$/bibliotheque/settings.py" />
-    </list>
+    <list default="true" id="6388d328-fe88-4c87-aa3e-ed2f8ddff684" name="Default" comment="" />
     <ignored path="bibliotheque.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
