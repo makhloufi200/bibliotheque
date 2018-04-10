@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.urls import path, include
 from biblio import views
 urlpatterns = [
+    path('', views.biblio),
     path('admin', admin.site.urls),
     path(r'biblio',include('biblio.urls')),
     path(r'search', views.search)
