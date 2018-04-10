@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6388d328-fe88-4c87-aa3e-ed2f8ddff684" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Scripts\django-admin.exe" afterPath="D:\bibliotheque\venv\Scripts\django-admin.exe" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Scripts\easy_install-3.6.exe" afterPath="D:\bibliotheque\venv\Scripts\easy_install-3.6.exe" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Scripts\easy_install.exe" afterPath="D:\bibliotheque\venv\Scripts\easy_install.exe" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Scripts\gunicorn.exe" afterPath="D:\bibliotheque\venv\Scripts\gunicorn.exe" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Scripts\gunicorn_paster.exe" afterPath="D:\bibliotheque\venv\Scripts\gunicorn_paster.exe" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Scripts\pip.exe" afterPath="D:\bibliotheque\venv\Scripts\pip.exe" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Scripts\pip3.6.exe" afterPath="D:\bibliotheque\venv\Scripts\pip3.6.exe" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Scripts\pip3.exe" afterPath="D:\bibliotheque\venv\Scripts\pip3.exe" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Scripts\wheel.exe" afterPath="D:\bibliotheque\venv\Scripts\wheel.exe" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Lib\site-packages\Django-2.0.3.dist-info\RECORD" afterPath="D:\bibliotheque\venv\Lib\site-packages\Django-2.0.3.dist-info\RECORD" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Lib\site-packages\gunicorn-19.7.1.dist-info\RECORD" afterPath="D:\bibliotheque\venv\Lib\site-packages\gunicorn-19.7.1.dist-info\RECORD" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Lib\site-packages\pip-9.0.3.dist-info\RECORD" afterPath="D:\bibliotheque\venv\Lib\site-packages\pip-9.0.3.dist-info\RECORD" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Lib\site-packages\setuptools-39.0.1.dist-info\RECORD" afterPath="D:\bibliotheque\venv\Lib\site-packages\setuptools-39.0.1.dist-info\RECORD" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\Lib\site-packages\wheel-0.31.0.dist-info\RECORD" afterPath="D:\bibliotheque\venv\Lib\site-packages\wheel-0.31.0.dist-info\RECORD" />
-      <change type="MODIFICATION" beforePath="D:\bibliotheque\venv\pip-selfcheck.json" afterPath="D:\bibliotheque\venv\pip-selfcheck.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bibliotheque/settings.py" afterPath="$PROJECT_DIR$/bibliotheque/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bibliotheque.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +28,7 @@
       <file leaf-file-name="requirements.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187">
+            <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
               <folding />
             </state>
           </provider>
@@ -59,19 +43,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bibliotheque/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="79" selection-start="3848" selection-end="3848" vertical-scroll-proportion="0.0" vertical-offset="2165" max-vertical-offset="2550">
+            <state line="140" column="1" selection-start="3767" selection-end="3767" vertical-scroll-proportion="0.7350649" vertical-offset="2080" max-vertical-offset="2465">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="3876">
+            <state line="1" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="-0.0" vertical-offset="17" max-vertical-offset="3876">
               <folding />
             </state>
           </provider>
@@ -475,6 +459,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="17" selection-start="538" selection-end="538" vertical-scroll-proportion="0.52987015" vertical-offset="102" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="3876">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
@@ -482,21 +478,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="538" selection-end="538" vertical-scroll-proportion="0.52987015" vertical-offset="102" max-vertical-offset="646" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bibliotheque/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="79" selection-start="3848" selection-end="3848" vertical-scroll-proportion="0.0" vertical-offset="2165" max-vertical-offset="2550">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="3876">
+        <state line="140" column="1" selection-start="3767" selection-end="3767" vertical-scroll-proportion="0.7350649" vertical-offset="2080" max-vertical-offset="2465">
           <folding />
         </state>
       </provider>
