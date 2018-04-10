@@ -2,252 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6388d328-fe88-4c87-aa3e-ed2f8ddff684" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\bibliotheque\biblio\static\css\css.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\biblio\static\img\1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\biblio\static\img\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\autocomplete.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\base.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\changelists.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\forms.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\login.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\responsive_rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\vendor\select2\LICENSE-SELECT2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\vendor\select2\select2.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\vendor\select2\select2.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\css\widgets.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\fonts\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\fonts\README.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\fonts\Roboto-Bold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\fonts\Roboto-Light-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\fonts\Roboto-Regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\README.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\calendar-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\gis\move_vertex_off.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\gis\move_vertex_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\icon-addlink.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\icon-alert.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\icon-calendar.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\icon-changelink.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\icon-clock.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\icon-deletelink.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\icon-no.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\icon-unknown-alt.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\icon-unknown.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\icon-yes.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\inline-delete.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\search.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\selector-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\sorting-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\tooltag-add.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\img\tooltag-arrowright.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\SelectBox.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\SelectFilter2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\actions.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\actions.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\admin\DateTimeShortcuts.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\admin\RelatedObjectLookups.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\autocomplete.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\cancel.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\change_form.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\collapse.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\core.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\inlines.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\inlines.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\jquery.init.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\popup_response.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\prepopulate.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\prepopulate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\prepopulate_init.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\timeparse.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\urlify.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\jquery\LICENSE-JQUERY.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\jquery\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\jquery\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\LICENSE-SELECT2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\ar.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\az.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\bg.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\ca.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\cs.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\da.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\de.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\el.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\en.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\es.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\et.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\eu.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\fa.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\fi.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\fr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\gl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\he.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\hi.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\hr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\hu.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\id.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\is.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\it.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\ja.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\km.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\ko.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\lt.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\lv.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\mk.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\ms.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\nb.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\nl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\pl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\pt-BR.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\pt.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\ro.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\ru.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\sk.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\sr-Cyrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\sr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\sv.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\th.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\tr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\uk.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\vi.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\zh-CN.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\i18n\zh-TW.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\select2.full.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\select2\select2.full.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\xregexp\LICENSE-XREGEXP.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\xregexp\xregexp.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\admin\js\vendor\xregexp\xregexp.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\css\css.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\img\1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\bibliotheque\staticfiles\img\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\autocomplete.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\base.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\changelists.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\forms.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\login.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\responsive_rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\vendor\select2\LICENSE-SELECT2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\vendor\select2\select2.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\vendor\select2\select2.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\css\widgets.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\fonts\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\fonts\README.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\fonts\Roboto-Bold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\fonts\Roboto-Light-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\fonts\Roboto-Regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\README.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\calendar-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\gis\move_vertex_off.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\gis\move_vertex_on.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\icon-addlink.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\icon-alert.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\icon-calendar.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\icon-changelink.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\icon-clock.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\icon-deletelink.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\icon-no.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\icon-unknown-alt.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\icon-unknown.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\icon-yes.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\inline-delete.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\search.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\selector-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\sorting-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\tooltag-add.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\img\tooltag-arrowright.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\SelectBox.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\SelectFilter2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\actions.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\actions.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\admin\DateTimeShortcuts.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\admin\RelatedObjectLookups.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\autocomplete.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\cancel.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\change_form.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\collapse.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\core.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\inlines.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\inlines.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\jquery.init.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\popup_response.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\prepopulate.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\prepopulate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\prepopulate_init.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\timeparse.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\urlify.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\jquery\LICENSE-JQUERY.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\jquery\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\jquery\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\LICENSE-SELECT2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\ar.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\az.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\bg.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\ca.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\cs.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\da.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\de.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\el.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\en.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\es.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\et.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\eu.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\fa.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\fi.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\fr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\gl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\he.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\hi.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\hr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\hu.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\id.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\is.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\it.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\ja.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\km.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\ko.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\lt.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\lv.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\mk.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\ms.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\nb.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\nl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\pl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\pt-BR.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\pt.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\ro.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\ru.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\sk.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\sr-Cyrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\sr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\sv.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\th.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\tr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\uk.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\vi.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\zh-CN.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\i18n\zh-TW.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\select2.full.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\select2\select2.full.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\xregexp\LICENSE-XREGEXP.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\xregexp\xregexp.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\admin\js\vendor\xregexp\xregexp.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\css\css.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\img\1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\bibliotheque\static_root\img\icon.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <ignored path="bibliotheque.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -273,7 +28,7 @@
       <file leaf-file-name="requirements.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
+            <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
               <folding />
             </state>
           </provider>
@@ -291,7 +46,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bibliotheque/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="0" selection-start="3497" selection-end="3497" vertical-scroll-proportion="1.1246753" vertical-offset="1777" max-vertical-offset="2363">
+            <state line="27" column="22" selection-start="892" selection-end="892" vertical-scroll-proportion="0.6831169" vertical-offset="196" max-vertical-offset="2363">
               <folding>
                 <element signature="e#313#322#0" expanded="true" />
               </folding>
@@ -302,7 +57,7 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="3876">
+            <state line="1" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="3876">
               <folding />
             </state>
           </provider>
@@ -347,10 +102,10 @@
         <option value="$PROJECT_DIR$/bibliotheque/biblio/views.py" />
         <option value="$PROJECT_DIR$/bibliotheque/Procfile" />
         <option value="$PROJECT_DIR$/bibliotheque/biblio/templates/home.html" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/biblio/templates/home.html" />
         <option value="$PROJECT_DIR$/bibliotheque/settings.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -405,20 +160,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bibliotheque" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bibliotheque" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bibliotheque" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -426,7 +167,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -705,33 +446,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+        <state line="19" column="17" selection-start="538" selection-end="538" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="3876">
+        <state line="1" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="3876">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bibliotheque/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="0" selection-start="3497" selection-end="3497" vertical-scroll-proportion="1.1246753" vertical-offset="1777" max-vertical-offset="2363">
+        <state line="27" column="22" selection-start="892" selection-end="892" vertical-scroll-proportion="0.6831169" vertical-offset="196" max-vertical-offset="2363">
           <folding>
             <element signature="e#313#322#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="538" selection-end="538" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
-          <folding />
         </state>
       </provider>
     </entry>
