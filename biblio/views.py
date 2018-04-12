@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.utils import timezone
 from .models import Book
 from django.db.models import Q
+from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.shortcuts import render_to_response
 # Create your views here.
 
@@ -27,3 +28,11 @@ def search(request):
     return render(request,'home.html', {
         'books': results
     })
+
+def listing(request):
+    contact_list = Book.objects.all()
+    paginator = Paginator(contact_list, 10) # Show 25 contacts per page
+
+    page = request.GET.get('page')
+    contacts = paginator.get_page(page)
+    return render(request, 'home.html', {'pages': contacts})

@@ -2,8 +2,8 @@
         {% load static %}
 <html>
 <head>
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <link rel = "stylesheet" type = "text/css" href = "{% static 'table/css/bootstrap.css' %}"/>
+    <link rel = "stylesheet" type = "text/css" href = "{% static 'table/css/jquery.dataTables.css' %}"/>
     <title>موقع مكتبة</title>
     <!--<link  rel="stylesheet" type="text/css" href="css/css.css">-->
     <link rel="stylesheet" href="{% static 'css/css.css' %}">
@@ -19,18 +19,20 @@
        </div>
    </div>
 </div>
-<div id="w1">
-    <h3>البحث</h3>
-    <form action="search" method="get">
-        <label>البحث: </label>
-        <input type="text" name="q">
-        <input type="submit" value="البحث">
-    </form>
-</div>
-<div id="main">
+<br>
+<!--<div id="w1">-->
+    <!--<h3>البحث</h3>-->
+    <!--<form action="search" method="get">-->
+        <!--<label>البحث: </label>-->
+        <!--<input type="text" name="q">-->
+        <!--<input type="submit" value="البحث">-->
+    <!--</form>-->
+<!--</div>-->
+{% block body %}
+    <main id="cont">
     <form>
         <div class="book-list">
-            <table>
+            <table id="table">
             <thead>
                 <tr>
                 <th>
@@ -75,149 +77,46 @@
                     </div>
                 {% endfor %}
             </tbody>
-            <!--<tbody>-->
-                <!--<tr>-->
-                    <!--<td>-->
-                        <!--<span>-->
-                            <!--1-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span>-->
-                            <!--<a class="text text-blue" href="#">أساسيات لغة البايثون</a>-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                            <!--1-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                            <!--<span>مختص في البايثون</span>-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                        <!--</span>-->
-                    <!--</td>-->
 
-                <!--</tr>-->
-                <!--<tr>-->
-                    <!--<td>-->
-                        <!--<span>-->
-                            <!--2-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span>-->
-                            <!--<a class="text text-blue" href="#">أساسيات لغة البايثون</a>-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                            <!--1-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                            <!--<span>مختص في البايثون</span>-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                        <!--</span>-->
-                    <!--</td>-->
-                <!--</tr>-->
-                <!--<tr>-->
-                    <!--<th>-->
-                        <!--<span>-->
-                            <!--3-->
-                        <!--</span>-->
-                    <!--</th>-->
-                    <!--<td>-->
-                        <!--<span>-->
-                            <!--<a class="text text-blue" href="#">أساسيات لغة البايثون</a>-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                            <!--1-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                            <!--<span>مختص في البايثون</span>-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                        <!--</span>-->
-                    <!--</td>-->
-
-                <!--</tr>-->
-                <!--<tr>-->
-                    <!--<th>-->
-                        <!--<span>-->
-                            <!--4-->
-                        <!--</span>-->
-                    <!--</th>-->
-                    <!--<td>-->
-                        <!--<span>-->
-                            <!--<a class="text text-blue" href="#">أساسيات لغة البايثون</a>-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                            <!--1-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                            <!--<span>مختص في البايثون</span>-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                        <!--</span>-->
-                    <!--</td>-->
-
-                <!--</tr>-->
-                <!--<tr>-->
-                    <!--<th>-->
-                        <!--<span>-->
-                            <!--5-->
-                        <!--</span>-->
-                    <!--</th>-->
-                    <!--<td>-->
-                        <!--<span>-->
-                            <!--<a class="text text-blue" href="#">أساسيات لغة البايثون</a>-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                            <!--1-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                            <!--<span>مختص في البايثون</span>-->
-                        <!--</span>-->
-                    <!--</td>-->
-                    <!--<td>-->
-                        <!--<span class="text">-->
-                        <!--</span>-->
-                    <!--</td>-->
-                <!--</tr>-->
-            <!--</tbody>-->
         </table>
         </div>
     </form>
-</div>
+</main>
+{% endblock %}
 <footer id="footer">
     <div class="footer-done">
         <h3>Done By:</h3>
     </div>
 </footer>
 </body>
+<script src = "{% static 'table/js/jquery-3.2.1.js' %}"></script>
+<script src = "{% static 'table/js/jquery.dataTables.js' %}"></script>
+<!--<script type = "text/javascript">-->
+    <!--$(document).ready(function(){-->
+        <!--$('#table').DataTable();-->
+    <!--});-->
+<!--</script>-->
+<script type="text/javascript">
+    $(document).ready(function() {
+    $('#table').DataTable( {
+        "language": {
+            "sProcessing":   "جارٍ التحميل...",
+    "sLengthMenu":   "أظهر _MENU_ مدخلات",
+    "sZeroRecords":  "لم يعثر على أية سجلات",
+    "sInfo":         "إظهار _START_ إلى _END_ من أصل _TOTAL_ مدخل",
+    "sInfoEmpty":    "يعرض 0 إلى 0 من أصل 0 سجل",
+    "sInfoFiltered": "(منتقاة من مجموع _MAX_ مُدخل)",
+    "sInfoPostFix":  "",
+    "sSearch":       "ابحث:",
+    "sUrl":          "",
+    "oPaginate": {
+        "sFirst":    "الأول",
+        "sPrevious": "السابق",
+        "sNext":     "التالي",
+        "sLast":     "الأخير"
+    }
+        }
+    } );
+} );
+</script>
 </html>

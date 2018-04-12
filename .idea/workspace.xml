@@ -2,8 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6388d328-fe88-4c87-aa3e-ed2f8ddff684" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bibliotheque/urls.py" afterPath="$PROJECT_DIR$/bibliotheque/urls.py" />
+      <change type="DELETED" beforePath="D:\bibliotheque\venv\Lib\site-packages\pytz-2018.3.dist-info\DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="D:\bibliotheque\venv\Lib\site-packages\pytz-2018.3.dist-info\INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="D:\bibliotheque\venv\Lib\site-packages\pytz-2018.3.dist-info\METADATA" afterPath="" />
+      <change type="DELETED" beforePath="D:\bibliotheque\venv\Lib\site-packages\pytz-2018.3.dist-info\RECORD" afterPath="" />
+      <change type="DELETED" beforePath="D:\bibliotheque\venv\Lib\site-packages\pytz-2018.3.dist-info\WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="D:\bibliotheque\venv\Lib\site-packages\pytz-2018.3.dist-info\metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\bibliotheque\venv\Lib\site-packages\pytz-2018.3.dist-info\top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\bibliotheque\venv\Lib\site-packages\pytz-2018.3.dist-info\zip-safe" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Atlantic/Azores" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Atlantic/Azores" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Africa/Bissau" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Africa/Bissau" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Atlantic/Cape_Verde" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Atlantic/Cape_Verde" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Antarctica/Casey" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Antarctica/Casey" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Pacific/Enderbury" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Pacific/Enderbury" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Asia/Gaza" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Asia/Gaza" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/America/Grand_Turk" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/America/Grand_Turk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Asia/Hebron" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Asia/Hebron" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Jamaica" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Jamaica" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/America/Jamaica" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/America/Jamaica" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Pacific/Kiritimati" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Pacific/Kiritimati" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Europe/Lisbon" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Europe/Lisbon" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Asia/Macao" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Asia/Macao" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Asia/Macau" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Asia/Macau" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Atlantic/Madeira" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Atlantic/Madeira" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/America/Montevideo" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/America/Montevideo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Portugal" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Portugal" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Africa/Sao_Tome" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/Africa/Sao_Tome" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biblio.sqlite3" afterPath="$PROJECT_DIR$/biblio.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/django-admin.exe" afterPath="$PROJECT_DIR$/venv/Scripts/django-admin.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.6.exe" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.6.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/gunicorn.exe" afterPath="$PROJECT_DIR$/venv/Scripts/gunicorn.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/gunicorn_paster.exe" afterPath="$PROJECT_DIR$/venv/Scripts/gunicorn_paster.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pip3.6.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.6.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/wheel.exe" afterPath="$PROJECT_DIR$/venv/Scripts/wheel.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-2.0.3.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Django-2.0.3.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gunicorn-19.7.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gunicorn-19.7.1.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.3.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.3.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-39.0.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-39.0.1.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel-0.31.0.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel-0.31.0.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/css.css" afterPath="$PROJECT_DIR$/static/css/css.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biblio/templates/home.html" afterPath="$PROJECT_DIR$/biblio/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/lazy.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/lazy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/tzdata.zi" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/tzdata.zi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/tzinfo.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/tzinfo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biblio/views.py" afterPath="$PROJECT_DIR$/biblio/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/zone.tab" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/zone.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/zone1970.tab" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz/zoneinfo/zone1970.tab" />
     </list>
     <ignored path="bibliotheque.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,37 +79,26 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="45" selection-start="561" selection-end="561" vertical-scroll-proportion="-8.5" vertical-offset="17" max-vertical-offset="3876">
+            <state line="89" column="9" selection-start="2469" selection-end="2566" vertical-scroll-proportion="-7.1923075" vertical-offset="1326" max-vertical-offset="2159">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bibliotheque/urls.py">
+      <file leaf-file-name="css.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/css/css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="20" selection-start="727" selection-end="727" vertical-scroll-proportion="0.47012988" vertical-offset="108" max-vertical-offset="510">
+            <state line="57" column="19" selection-start="1026" selection-end="1026" vertical-scroll-proportion="-0.79480517" vertical-offset="1275" max-vertical-offset="1853">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manage.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
+      <file leaf-file-name="run.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+            <state line="8" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="663">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/biblio/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="10" selection-start="205" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -82,8 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/bibliotheque/bibliotheque/urls.py" />
-        <option value="$PROJECT_DIR$/bibliotheque/bibliotheque/settings.py" />
         <option value="$PROJECT_DIR$/bibliotheque/biblio/admin.py" />
         <option value="$PROJECT_DIR$/bibliotheque/biblio/models.py" />
         <option value="$PROJECT_DIR$/bibliotheque/run.py" />
@@ -95,9 +132,11 @@
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/bibliotheque/settings.py" />
         <option value="$PROJECT_DIR$/biblio/urls.py" />
-        <option value="$PROJECT_DIR$/biblio/templates/home.html" />
-        <option value="$PROJECT_DIR$/biblio/views.py" />
         <option value="$PROJECT_DIR$/bibliotheque/urls.py" />
+        <option value="$PROJECT_DIR$/biblio/views.py" />
+        <option value="$PROJECT_DIR$/biblio/static/css/css.css" />
+        <option value="$PROJECT_DIR$/biblio/templates/home.html" />
+        <option value="$PROJECT_DIR$/static/css/css.css" />
       </list>
     </option>
   </component>
@@ -133,7 +172,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,23 +200,100 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bibliotheque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="biblio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -374,18 +489,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.67156863" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.67156863" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -410,37 +525,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bibliotheque/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="79" selection-start="3848" selection-end="3848" vertical-scroll-proportion="0.0" vertical-offset="2165" max-vertical-offset="2550">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="3876">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bibliotheque/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="0" selection-start="3497" selection-end="3497" vertical-scroll-proportion="0.0" vertical-offset="2210" max-vertical-offset="2363">
-          <folding />
-        </state>
+        <state line="130" column="0" selection-start="3497" selection-end="3497" vertical-scroll-proportion="0.0" vertical-offset="2210" max-vertical-offset="2363" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
@@ -452,68 +537,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="538" selection-end="538" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="663" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="538" selection-end="538" vertical-scroll-proportion="0.52987015" vertical-offset="102" max-vertical-offset="646" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bibliotheque/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="10" selection-start="1179" selection-end="1189" vertical-scroll-proportion="1.0441558" vertical-offset="295" max-vertical-offset="2465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="385">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.22077923" vertical-offset="0" max-vertical-offset="385">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="45" selection-start="561" selection-end="561" vertical-scroll-proportion="-8.5" vertical-offset="17" max-vertical-offset="3876">
+        <state line="19" column="17" selection-start="538" selection-end="538" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/biblio/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="30" selection-end="49" vertical-scroll-proportion="0.08831169" vertical-offset="0" max-vertical-offset="385">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="385">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/biblio/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="205" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="2" column="0" selection-start="30" selection-end="49" vertical-scroll-proportion="0.08831169" vertical-offset="0" max-vertical-offset="385" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bibliotheque/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="727" selection-end="727" vertical-scroll-proportion="0.47012988" vertical-offset="108" max-vertical-offset="510">
+        <state line="17" column="20" selection-start="727" selection-end="727" vertical-scroll-proportion="0.47012988" vertical-offset="108" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="26" selection-start="14" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.22077923" vertical-offset="0" max-vertical-offset="385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="14" selection-start="957" selection-end="971" vertical-scroll-proportion="-0.044155844" vertical-offset="544" max-vertical-offset="2465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biblio/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="47" selection-start="1046" selection-end="1051" vertical-scroll-proportion="0.7350649" vertical-offset="261" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/table/js/jquery-3.2.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2693" column="19" selection-start="75006" selection-end="75006" vertical-scroll-proportion="0.4247312" vertical-offset="45623" max-vertical-offset="174403">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/table/js/jquery.dataTables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4010" column="47" selection-start="118731" selection-end="118737" vertical-scroll-proportion="0.28494623" vertical-offset="68064" max-vertical-offset="260967">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/table/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-10.419354" vertical-offset="3876" max-vertical-offset="114971">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biblio/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="9" selection-start="2469" selection-end="2566" vertical-scroll-proportion="-7.1923075" vertical-offset="1326" max-vertical-offset="2159">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="19" selection-start="1026" selection-end="1026" vertical-scroll-proportion="-0.79480517" vertical-offset="1275" max-vertical-offset="1853">
           <folding />
         </state>
       </provider>
