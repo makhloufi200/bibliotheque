@@ -45,7 +45,7 @@ body{margin:0;line-height: 1.42857143;}
 	overflow: hidden;
 }
 
-#main{
+#cont{
 	width: 100%;
 	min-width: 980px;
     height:60%;
@@ -53,6 +53,7 @@ body{margin:0;line-height: 1.42857143;}
 	background: linear-gradient(#ffffff,#d3d8e8);
 	/*overflow:hidden;*/
 	overflow-y: scroll;
+	margin-left:5px;
 }
 /*=======================*/
 .book-list{height:200px}
@@ -67,7 +68,7 @@ border-left:1px solid #f2eeee
 }
 .book-list td, .book-list th{text-align:right}
 table{
-    width: 100%;
+    width: 90%;
 	font-family: Arial;
 	direction:rtl;
 	display:table
