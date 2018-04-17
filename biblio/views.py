@@ -8,8 +8,9 @@ from django.shortcuts import render_to_response
 
 def biblio(request):
     books = Book.objects.filter(created_date__lte=timezone.now()).order_by('created_date')
-
-    return render(request,'home.html',{'books': books})
+    num_visits=request.session.get('num_visits', 0)
+    request.session['num_visits'] = num_visits+1
+    return render(request,'home.html',{'books': books, 'num_visits':num_visits})
 
 
 def search(request):
