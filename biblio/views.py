@@ -7,6 +7,7 @@ from django.shortcuts import render_to_response
 # Create your views here.
 
 def biblio(request):
+    paginate_by = 2
     books = Book.objects.filter(created_date__lte=timezone.now()).order_by('created_date')
     num_visits=request.session.get('num_visits', 0)
     request.session['num_visits'] = num_visits+1
